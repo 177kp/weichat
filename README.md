@@ -7,6 +7,7 @@ Spring， hibernate，memcache，Netty，protobuf，FastDFS，GreenDao。
 
 
 阅读入口：weichatApp/org.weishe.weichat.service.Session
+
 	weichat/com.weishe.weichat.core.NettyServerBootstrap
 
 1.请了解整个聊天系统的设计思路，请阅读  doc/云推送介绍和架构分享.ppt
