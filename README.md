@@ -41,3 +41,7 @@ Spring， hibernate，memcache，Netty，protobuf，FastDFS，GreenDao。
 10.由于是利用业余时间做的，有些地方还可以有很好的设计但是由于时间问题.......。代码没有仔细整理过可能有些凌乱请见谅。
 
 11.如有疑问或者好的改造方案请发送至邮箱735859399@qq.com
+
+
+效果图如下：
+
