@@ -7,17 +7,16 @@ Spring， hibernate，memcache，Netty，protobuf，FastDFS，GreenDao。
 
 
 阅读入口：weichatApp/org.weishe.weichat.service.Session
-	  
-          weichat/com.weishe.weichat.core.NettyServerBootstrap
+	weichat/com.weishe.weichat.core.NettyServerBootstrap
 
 1.请了解整个聊天系统的设计思路，请阅读  doc/云推送介绍和架构分享.ppt
   在这个之中我有一个地方没说清楚的就是服务端的的消息转发，有时间我会补上的。
 2.整个项目用Eclipse开发，将源码下载下来之后导入即可
 
 3.导入项目之后请修改 weichat/config db-config.properties文件中的数据库配置
-#connection.url=jdbc:mysql://XXXXXXXXXX:3306/WeiChat?autoReconnect=true&autoReconnectForPools=true&useUnicode=true&characterEncoding=utf8
-#connection.username= 
-#connection.password= 
+/#connection.url=jdbc:mysql://XXXXXXXXXX:3306/WeiChat?autoReconnect=true&autoReconnectForPools=true&useUnicode=true&characterEncoding=utf8
+/#connection.username= 
+/#connection.password= 
 
 4.修改weichatApp/org.weishe.weichat.api.ApiHttpClient中的服务端连接地址
 	public final static String HOST = "";
