@@ -5,6 +5,8 @@ Spring， hibernate，memcache，Netty，protobuf，FastDFS，GreenDao。
 
 核心通信部分是netty 和protobuf 
 
+未来将加入webrtc 以实现在线通话、视频聊天
+
 
 阅读入口：weichatApp/org.weishe.weichat.service.Session
 
