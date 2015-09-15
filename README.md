@@ -7,6 +7,8 @@ Spring， hibernate，memcache，Netty，protobuf，FastDFS，GreenDao。
 
 未来将加入webrtc 以实现在线通话、视频聊天
 
+项目分为服务端和客户端，代码都在这里。代码量有点儿大，相当一个在线应用的70%。对于一般的程序员有很好的启发作用。
+
 
 阅读入口：weichatApp/org.weishe.weichat.service.Session
 
