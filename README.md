@@ -9,6 +9,10 @@ Spring， hibernate，memcache，Netty，protobuf，FastDFS，GreenDao。
 
 项目分为服务端和客户端，代码都在这里。代码量有点儿大，相当一个在线应用的70%。对于一般的程序员有很好的启发作用。
 
+如想运行需要将服务端程序运行起来。数据库建表语句都是自动的，建好数据库就行了。
+
+memcache， fastDFS服务器也需要自己搭建。（如果这也觉得难那么代码运行起来你也看不出他的价值）
+
 
 阅读入口：weichatApp/org.weishe.weichat.service.Session
 
